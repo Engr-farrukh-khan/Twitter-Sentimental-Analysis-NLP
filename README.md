@@ -22,7 +22,7 @@ The dataset used consists of tweets labeled with positive or negative sentiments
 The model is trained using the following steps:
 1. **Data Preprocessing**: Cleaning text, stemming, and tokenization.
 2. **Vectorization**: Tweets are vectorized using the `TfidfVectorizer`.
-3. **Model Training**: A Naive Bayes classifier (or other machine learning model) is trained on the processed data.
+3. **Model Training**: A Logistic Regression (or other machine learning model) is trained on the processed data.
 4. **Evaluation**: The model's performance is evaluated using accuracy, precision, and recall metrics.
 
 ## Real-Time Tweet Prediction
