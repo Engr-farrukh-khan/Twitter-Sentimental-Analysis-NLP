@@ -16,7 +16,7 @@ This project analyzes the sentiment of tweets using Natural Language Processing 
 - `README.md`: Project documentation.
 
 ## Dataset
-The dataset used consists of tweets labeled with positive or negative sentiments. Preprocessing steps were applied to clean the data before feeding it into the model.
+The dataset used consists of tweets labeled with positive or negative sentiments. Preprocessing steps were applied to clean the data before feeding it into the model. Also Download Dataset From Kaggle.
 
 ## Model
 The model is trained using the following steps:
